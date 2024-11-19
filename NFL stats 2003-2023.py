@@ -45,14 +45,19 @@ nfl_teams_dict = {
     "New Orleans Saints": 23,
     "New York Giants": 24,
     "New York Jets": 25,
-    "Philadelphia Eagles": 26,
-    "Pittsburgh Steelers": 27,
-    "San Francisco 49ers": 28,
-    "Seattle Seahawks": 29,
-    "Tampa Bay Buccaneers": 30,
-    "Tennessee Titans": 31,
-    "Washington Redskins": 32,
-    "St. Louis Rams": 33
+    "Oakland Raiders": 26,
+    "Philadelphia Eagles": 27,
+    "Pittsburgh Steelers": 28,
+    "San Diego Chargers": 29,
+    "San Francisco 49ers": 30,
+    "Seattle Seahawks": 31,
+    "St. Louis Rams": 32,
+    "Tampa Bay Buccaneers": 33,
+    "Tennessee Titans": 34,
+    "Washington Commanders": 35,
+    "Washington Football Team": 36,
+    "Washington Redskins": 37
+    
 }
 
 # Sidebar menu for navigation
