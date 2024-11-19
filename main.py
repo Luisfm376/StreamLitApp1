@@ -107,7 +107,7 @@ elif choice == "Statistics":
     st.table(team_stats)
 
 # Visualizations Page
-elif choice == "Visualizations":
+elif choice == "Visualization":
     st.title("📈 Team Visualizations")
     st.write("Visualization of every team wins from 2003-2023")
     fig = px.bar(df, x="team", y="wins")
